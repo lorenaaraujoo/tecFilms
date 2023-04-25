@@ -1,7 +1,7 @@
 import { StyleSheet } from "react-native";
 
 
-const styles = StyleSheet.create({
+const styles= StyleSheet.create({
 
     containerSearch:{
         flexDirection:'row',
@@ -11,9 +11,8 @@ const styles = StyleSheet.create({
        
         alignItems:"center",
         borderRadius:3
-     
-
     },
+
     inputSearch:{
         
         height:35,
@@ -22,4 +21,4 @@ const styles = StyleSheet.create({
     }
 })
 
-export default styles;
+export default styles
