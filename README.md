@@ -4,6 +4,15 @@
 ### SOBRE
 
 - Aplicativo desenvolvido nas aulas de PAM II, na ETEC Cidade Tiradentes, como o intuito de solucionar o exercíco proposto.
+#
+
+### INSTALAÇÃO
+- Yarn install
+
+#
+
+### EXECUÇÃO
+- Expo start
 
 #
 ### TECNOLOGIAS
